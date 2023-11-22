@@ -1,5 +1,12 @@
 # ACCESS-ESM with **payu**
 
+This payu configuration is intended to be used for testing ACCESS-ESM paramteres.
+
+Potential parameters to test:
+
+- carbon pool turnover rates
+- harvest pool fractions
+
 ## Quickstart Guide
 
 
